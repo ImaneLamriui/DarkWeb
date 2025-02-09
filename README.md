@@ -13,12 +13,15 @@ Yo prefiero usar Tor en Linux dentro de una máquina virtual (VM), ya que así p
 ✅ Opción 2: Whonix (Mayor seguridad)
 Para casos más avanzados, una opción aún más segura sería usar las máquinas de Whonix, que fuerza todo el tráfico a través de Tor de forma estricta usando su propio Whonix-Gateway.
 
+
 🔹 Whonix-Gateway: Maneja todo el tráfico a través de Tor.
+
 🔹 Whonix-Workstation: Se conecta únicamente a través del Gateway, evitando fugas de IP.
 
 📌 En las imágenes muestro:
 
 👉 Kali Linux conectado a Tor.
+
 👉 Una comparación entre Whonix y las VPNs en términos de privacidad y seguridad en línea. 
 
 <img src="Tor.png">
